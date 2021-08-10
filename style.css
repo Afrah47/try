@@ -1,0 +1,45 @@
+body{
+    background-color:mistyrose;  
+  }
+  .body_backgorund {
+      background-image: url("https://i.postimg.cc/63cjmfvH/bg1.jpg");
+      background-position: center;
+      background-size: cover;
+    }
+    body{
+      cursor: pointer;
+    }
+    h1
+    {
+        color: black;
+        background-color: rgb(255, 249, 167); 
+        font-size: 40px;
+        border-color: black;
+        border-style: solid;
+    }
+    #myCanvas
+    {
+        border-width:10px;
+        background-color: white; 
+        border-style:ridge;
+      margin-left: 50px;
+    }
+  
+    button {
+      background-color: #4CAF50;
+      border: none;
+      color: white;
+      padding: 10px 42px;
+      font-size: 16px;
+    }
+  
+    input
+    {
+      margin-right: 20px;
+    }
+  #S2 {
+    background-color: pink;
+    border: ridge;
+    border-color: black;
+    border-width: 5px;
+  }
